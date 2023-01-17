@@ -18,7 +18,7 @@
 
             if (result)
             {
-                Console.WriteLine("Email is valid");
+                Console.WriteLine("Email is valid!");
             }
             else
             {
